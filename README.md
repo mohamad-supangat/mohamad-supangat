@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mohamad Supangat</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 Just learn and keep learning from the lessons that have been taken
 
