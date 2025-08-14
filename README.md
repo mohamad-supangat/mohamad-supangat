@@ -6,6 +6,18 @@ Just learn and keep learning from the lessons that have been taken
 
 - 📫 How to reach me **hantamkoding@gmail.com**
 
+<h3 align="left">Owner of Aura Komputer:</h3>
+ <p>
+   <a href="https://s.id/aurakomputer" target="_blank">
+     <div>
+       <img src="./logo-aurakomputer.png" alt="Aura Komputer Logo" height="150">
+     </div>
+     <div>
+       <img style="border-radius: 20px" src="./ss-aurakomputer.png" alt="Aura Komputer Landing">
+     </div>
+   </a>
+ </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
