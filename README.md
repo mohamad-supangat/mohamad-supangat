@@ -16,7 +16,7 @@ Just learn and keep learning from the lessons that have been taken
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
+- [Aura Komputer](https://s.id/aurakomputer)
 - [My Gitlab](https://gitlab.com/hantamkoding)
 - [My Instagram](https://instagram.com/mohamad.supangat)
 - [My Youtube Channel](https://www.youtube.com/channel/UCt-DObgKGgNGaRF2PQBxdiQ/videos)
