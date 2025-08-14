@@ -2,7 +2,7 @@
 
 ### Owner of Aura Komputer:
 
-[![Aura Komputer Logo](./logo-aurakomputer.png =x250)](https://s.id/aurakomputer)
+[![Aura Komputer Logo](./logo-aurakomputer.png)](https://s.id/aurakomputer)
 [![Aura Komputer Landing](./ss-aurakomputer.png)](https://s.id/aurakomputer)
 
 ### Connect with me:
