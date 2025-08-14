@@ -1,24 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mohamad Supangat</h1>
+# Hi 👋, I'm Mohamad Supangat
 
-Just learn and keep learning from the lessons that have been taken
+### Owner of Aura Komputer:
 
-- 💬 Ask me about **vue and laravel**
+[![Aura Komputer Logo](./logo-aurakomputer.png =x250)](https://s.id/aurakomputer)
+[![Aura Komputer Landing](./ss-aurakomputer.png)](https://s.id/aurakomputer)
 
-- 📫 How to reach me **hantamkoding@gmail.com**
+### Connect with me:
 
-<h3 align="left">Owner of Aura Komputer:</h3>
- <p>
-   <a href="https://s.id/aurakomputer" target="_blank">
-     <img src="./logo-aurakomputer.png" alt="Aura Komputer Logo" height="150">
-     <img style="border-radius: 20px" src="./ss-aurakomputer.png" alt="Aura Komputer Landing">
-   </a>
- </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 - [Aura Komputer](https://s.id/aurakomputer)
-- [My Gitlab](https://gitlab.com/hantamkoding)
+- [My Gitlab](https://gitlab.com/mohamad-supangat)
 - [My Instagram](https://instagram.com/mohamad.supangat)
 - [My Youtube Channel](https://www.youtube.com/channel/UCt-DObgKGgNGaRF2PQBxdiQ/videos)
-
-</p>
